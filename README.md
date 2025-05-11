@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Eren
+# Hey there! 👋 I'm Durgesh
 
 🎓 I'm a Computer Science student passionate about building digital tools that make real-world impact — especially in under-served communities.  
 💡 I specialize in **Full-Stack Web Development** with a strong focus on **React**, **Firebase**, and the **MERN stack**.  
