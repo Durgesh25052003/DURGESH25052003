@@ -22,7 +22,7 @@ Currently expanding into **Java & Spring Boot** to strengthen backend fundamenta
 ## 🚀 Featured Projects
 
 ### 🔹 EaseLibrary — Library Management System (MERN)
-- JWT-based authentication & protected routes  
+- JWT-based authentication,OAuth authentication & protected routes  
 - Book management, borrowing & history tracking  
 - Search, categorization, real-time updates  
 
