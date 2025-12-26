@@ -3,54 +3,56 @@
 Full-Stack Developer with hands-on experience building scalable web applications.
 I work across the stack — from clean React interfaces to secure, real-time backend systems.
 
-My focus areas are **MERN stack**, **authentication**, and **real-time communication**.
+Currently expanding into **Java & Spring Boot** to strengthen backend fundamentals.
 
 ---
 
 ## 🧠 Tech Stack
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,java,js,git,github" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,java,spring,js,git,github" />
 
 **Frontend:** React, JavaScript (ES6+), HTML, CSS, Tailwind  
-**Backend:** Node.js, Express, REST APIs  
+**Backend:** Node.js, Express  
 **Databases:** MongoDB, MySQL  
 **Auth & Security:** JWT, OAuth, Bcrypt  
-**Real-time:** WebSockets, Socket.io
+**Real-time:** WebSockets, Socket.io  
+**Backend (Learning):** Java, Spring Boot, JPA, Hibernate
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 EaseLibrary — Library Management System (MERN)
-A full-stack library platform with Admin & Student portals.
-
 - JWT-based authentication & protected routes  
 - Book management, borrowing & history tracking  
 - Search, categorization, real-time updates  
-- Clean React UI with scalable MongoDB schemas  
 
 🔗 Repo: `EaseLibrary`
 
 ---
 
 ### 🔹 Employee Management System (MERN)
-Role-based employee management system.
-
-- Secure authentication & authorization  
+- Role-based access control  
 - Real-time notifications using WebSockets  
-- Optimized MongoDB data modeling  
+- Optimized MongoDB schema design  
 
 🔗 Repo: `employee-management-system`
 
 ---
 
 ### 🔹 Natours — Tour Booking API
-Production-style REST API.
-
 - JWT & OAuth authentication  
 - Role-based permissions  
-- MongoDB aggregation, indexing & performance tuning  
+- MongoDB aggregation & indexing  
 
 🔗 Repo: `natours-api`
+
+---
+
+## 🧪 Currently Learning
+- Spring Boot REST APIs
+- JPA & Hibernate
+- Pagination, sorting, DTO mapping
+- Backend architecture patterns
 
 ---
 
