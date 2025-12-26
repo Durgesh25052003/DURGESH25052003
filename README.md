@@ -1,61 +1,63 @@
-# Hi, I'm a Backend Developer 👋
+# Hi, I'm Durgesh 👋
 
-I build clean, predictable backend systems.
-I like APIs that make sense, databases that behave, and code that doesn’t lie.
+Full-Stack Developer with hands-on experience building scalable web applications.
+I work across the stack — from clean React interfaces to secure, real-time backend systems.
 
-Currently focused on **Java backend development** and system fundamentals.
+My focus areas are **MERN stack**, **authentication**, and **real-time communication**.
 
 ---
 
 ## 🧠 Tech Stack
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,java,js,git,github" />
 
-- Java, Spring Boot
-- JPA / Hibernate
-- RESTful APIs
-- MySQL
-- Git & GitHub
-
----
-
-## 📂 Projects
-
-### 🔹 Student Management API
-**Tech:** Spring Boot, JPA, MySQL  
-- CRUD operations  
-- Pagination & Sorting  
-- DTO mapping  
-- Clean layered architecture  
-
-🔗 Repo: `student-management-api`
+**Frontend:** React, JavaScript (ES6+), HTML, CSS, Tailwind  
+**Backend:** Node.js, Express, REST APIs  
+**Databases:** MongoDB, MySQL  
+**Auth & Security:** JWT, OAuth, Bcrypt  
+**Real-time:** WebSockets, Socket.io
 
 ---
 
-### 🔹 Authentication System
-**Tech:** Spring Boot, JWT, Validation  
-- Signup & Login  
-- Secure authentication  
-- Input validation  
-- Exception handling  
+## 🚀 Featured Projects
 
-🔗 Repo: `auth-service`
+### 🔹 EaseLibrary — Library Management System (MERN)
+A full-stack library platform with Admin & Student portals.
+
+- JWT-based authentication & protected routes  
+- Book management, borrowing & history tracking  
+- Search, categorization, real-time updates  
+- Clean React UI with scalable MongoDB schemas  
+
+🔗 Repo: `EaseLibrary`
 
 ---
 
-### 🔹 Real-time Chat Application
-**Tech:** WebSockets, Spring Boot  
-- Real-time messaging  
-- Multiple users  
-- Backend-focused design  
+### 🔹 Employee Management System (MERN)
+Role-based employee management system.
 
-🔗 Repo: `chat-application`
+- Secure authentication & authorization  
+- Real-time notifications using WebSockets  
+- Optimized MongoDB data modeling  
+
+🔗 Repo: `employee-management-system`
+
+---
+
+### 🔹 Natours — Tour Booking API
+Production-style REST API.
+
+- JWT & OAuth authentication  
+- Role-based permissions  
+- MongoDB aggregation, indexing & performance tuning  
+
+🔗 Repo: `natours-api`
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Durgesh25052003&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🧩 Philosophy
-> “Clarity is kindness to future-you.”
+> Build systems that are easy to reason about and hard to break.
