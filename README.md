@@ -11,7 +11,7 @@ Currently expanding into **Java & Spring Boot** to strengthen backend fundamenta
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,java,spring,js,git,github" />
 
 **Frontend:** React, JavaScript (ES6+), HTML, CSS, Tailwind  
-**Backend:** Node.js, Express , Spring Boot
+**Backend:** Node.js, Express , Spring Boot 
 **Databases:** MongoDB, MySQL  
 **Auth & Security:** JWT, OAuth, Bcrypt  
 **Real-time:** WebSockets, Socket.io  
