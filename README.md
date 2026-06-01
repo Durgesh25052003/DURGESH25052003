@@ -1,5 +1,13 @@
 # 💫 About Me:
-Full-Stack Developer focused on creating reliable, scalable, and user-centric applications.<br><br>I enjoy building everything from interactive frontends to secure backend services, with particular interest in APIs, authentication, databases, and real-time systems.<br><br>Currently sharpening my backend expertise with Java, Spring Boot, SQL, and software architecture while developing production-ready projects.
+🚀 Full-Stack Developer | Backend Enthusiast
+
+💻 Building scalable web applications and real-time systems.
+
+🔐 Passionate about APIs, Authentication, Databases, and Backend Architecture.
+
+⚡ Tech Stack: JavaScript • React • Node.js • Express • MongoDB • SQL • Java • Spring Boot
+
+🌱 Currently exploring System Design, Software Architecture, and Enterprise Backend Development.
 
 
 ## 🌐 Socials:
